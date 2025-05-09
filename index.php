@@ -1,2 +1,3 @@
 <?php
-echo "testing railway.com"
+echo "testing railway.com";
+?>
